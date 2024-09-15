@@ -5,7 +5,7 @@
       "description": "Wireless headphones with superior sound quality.",
       "price": 2999,
       "category": "Electronics",
-      "image": "https://example.com/headphones.jpg"
+      "image": "https://cdn.pixabay.com/photo/2018/09/17/14/27/headphones-3683983_1280.jpg"
    },
    {
       "id": 2,
@@ -13,7 +13,7 @@
       "description": "A fast, powerful phone with long battery life.",
       "price": 15999,
       "category": "Electronics",
-      "image": "https://example.com/smartphone.jpg"
+      "image": "https://images.samsung.com/is/image/samsung/p6pim/in/sm-a146bzkiins/gallery/in-galaxy-a14-5g-sm-a146-446757-sm-a146bzkiins-thumb-534859520?$240_240_PNG$"
    },
    {
       "id": 3,
@@ -21,7 +21,7 @@
       "description": "Enjoy a cinematic experience at home.",
       "price": 45999,
       "category": "Electronics",
-      "image": "https://example.com/smart-tv.jpg"
+      "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/television/x/c/a/-original-imagtkmpfat5qcrz.jpeg?q=70"
    },
    {
       "id": 4,
@@ -29,7 +29,7 @@
       "description": "Ergonomic mouse with 2-year battery life.",
       "price": 699,
       "category": "Electronics",
-      "image": "https://example.com/mouse.jpg"
+      "image": "https://images.unsplash.com/photo-1707592691247-5c3a1c7ba0e3?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8V2lyZWxlc3MlMjBNb3VzZXxlbnwwfHwwfHx8MA%3D%3D"
    },
    {
       "id": 5,
@@ -37,7 +37,7 @@
       "description": "Sleek design with powerful performance.",
       "price": 55999,
       "category": "Electronics",
-      "image": "https://example.com/laptop.jpg"
+      "image": "https://images.unsplash.com/photo-1611186871348-b1ce696e52c9?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fExhcHRvcHxlbnwwfHwwfHx8MA%3D%3D"
    },
    {
       "id": 6,
@@ -45,7 +45,7 @@
       "description": "Keep your home air fresh and clean.",
       "price": 12999,
       "category": "Home Appliances",
-      "image": "https://example.com/air-purifier.jpg"
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/air-purifier/x/s/l/24-smart-air-purifier-4-lite-24-4-8-xiaomi-original-imagztfesnycrhsn.jpeg?q=70"
    },
    {
       "id": 7,
@@ -53,7 +53,7 @@
       "description": "Compact and powerful for easy cooking.",
       "price": 7499,
       "category": "Home Appliances",
-      "image": "https://example.com/microwave.jpg"
+      "image": "https://m.media-amazon.com/images/I/61byLAW0M9L._AC_UY327_FMwebp_QL65_.jpg"
    },
    {
       "id": 8,
@@ -61,7 +61,7 @@
       "description": "Clean your home effortlessly.",
       "price": 9999,
       "category": "Home Appliances",
-      "image": "https://example.com/vacuum-cleaner.jpg"
+      "image": "https://m.media-amazon.com/images/I/71TmbI0ZYUL._AC_UY327_FMwebp_QL65_.jpg"
    },
    {
       "id": 9,
@@ -69,7 +69,7 @@
       "description": "Energy-efficient and spacious fridge.",
       "price": 22999,
       "category": "Home Appliances",
-      "image": "https://example.com/fridge.jpg"
+      "image": "https://m.media-amazon.com/images/I/71+ZZ80MTEL._AC_UY327_FMwebp_QL65_.jpg"
    },
    {
       "id": 10,
@@ -77,7 +77,7 @@
       "description": "Front load, fully automatic washer.",
       "price": 31999,
       "category": "Home Appliances",
-      "image": "https://example.com/washing-machine.jpg"
+      "image": "https://m.media-amazon.com/images/I/61P4dWkSVhL._AC_UY327_FMwebp_QL65_.jpg"
    },
    {
       "id": 11,
@@ -85,7 +85,7 @@
       "description": "Comfortable and stylish cotton shirt.",
       "price": 999,
       "category": "Fashion",
-      "image": "https://example.com/mens-shirt.jpg"
+      "image": "https://m.media-amazon.com/images/I/61WswLTIRqL._AC_UL480_FMwebp_QL65_.jpg"
    },
    {
       "id": 12,
@@ -93,7 +93,7 @@
       "description": "Elegant and flowy summer dress.",
       "price": 1999,
       "category": "Fashion",
-      "image": "https://example.com/maxi-dress.jpg"
+      "image": "https://m.media-amazon.com/images/I/71c7ohfqQ1L._AC_UL480_FMwebp_QL65_.jpg"
    },
    {
       "id": 13,
@@ -101,7 +101,7 @@
       "description": "Lightweight shoes for an active lifestyle.",
       "price": 2499,
       "category": "Fashion",
-      "image": "https://example.com/running-shoes.jpg"
+      "image": "https://m.media-amazon.com/images/I/61utX8kBDlL._AC_UL480_FMwebp_QL65_.jpg"
    },
    {
       "id": 14,
@@ -109,7 +109,7 @@
       "description": "Stylish leather handbag for daily use.",
       "price": 2999,
       "category": "Fashion",
-      "image": "https://example.com/handbag.jpg"
+      "image": "https://m.media-amazon.com/images/I/71dGAHccJNL._AC_UL480_FMwebp_QL65_.jpg"
    },
    {
       "id": 15,
@@ -117,7 +117,7 @@
       "description": "UV-protected fashionable sunglasses.",
       "price": 1499,
       "category": "Fashion",
-      "image": "https://example.com/sunglasses.jpg"
+      "image": "https://m.media-amazon.com/images/I/41Dr9I4x1EL._AC_UL480_FMwebp_QL65_.jpg"
    },
    {
       "id": 16,
@@ -125,7 +125,7 @@
       "description": "Water-resistant watch with multiple features.",
       "price": 3499,
       "category": "Fashion",
-      "image": "https://example.com/digital-watch.jpg"
+      "image": "https://m.media-amazon.com/images/I/71CxgCKczdL._AC_UL480_FMwebp_QL65_.jpg"
    },
    {
       "id": 17,
@@ -133,7 +133,7 @@
       "description": "Non-slip mat for yoga and exercise.",
       "price": 899,
       "category": "Fitness",
-      "image": "https://example.com/yoga-mat.jpg"
+      "image": "https://m.media-amazon.com/images/I/71yOChO3sCL._AC_UY327_FMwebp_QL65_.jpg"
    },
    {
       "id": 18,
@@ -141,7 +141,7 @@
       "description": "Adjustable dumbbells for weight training.",
       "price": 2499,
       "category": "Fitness",
-      "image": "https://example.com/dumbbells.jpg"
+      "image": "https://m.media-amazon.com/images/I/61jEG1x1AlL._AC_UY327_FMwebp_QL65_.jpg"
    },
    {
       "id": 19,
@@ -149,7 +149,7 @@
       "description": "Foldable treadmill for home workouts.",
       "price": 34999,
       "category": "Fitness",
-      "image": "https://example.com/treadmill.jpg"
+      "image": "https://m.media-amazon.com/images/I/61YMOGyczLL._AC_UY327_FMwebp_QL65_.jpg"
    },
    {
       "id": 20,
@@ -157,7 +157,7 @@
       "description": "Set of 5 resistance bands for various exercises.",
       "price": 499,
       "category": "Fitness",
-      "image": "https://example.com/resistance-bands.jpg"
+      "image": "https://m.media-amazon.com/images/I/61VqooI4dPL._AC_UY327_FMwebp_QL65_.jpg"
    },
    {
       "id": 21,
@@ -165,7 +165,7 @@
       "description": "Durable skipping rope for cardio exercises.",
       "price": 299,
       "category": "Fitness",
-      "image": "https://example.com/skipping-rope.jpg"
+      "image": "https://m.media-amazon.com/images/I/71gv+Uy2QiL._AC_UY327_FMwebp_QL65_.jpg"
    },
    {
       "id": 22,
@@ -173,7 +173,7 @@
       "description": "Multi-position weight bench for workouts.",
       "price": 5999,
       "category": "Fitness",
-      "image": "https://example.com/bench.jpg"
+      "image": "https://m.media-amazon.com/images/I/71znAC4OOxL._AC_UY327_FMwebp_QL65_.jpg"
    },
    {
       "id": 23,
@@ -181,7 +181,7 @@
       "description": "Bestselling fiction novel.",
       "price": 499,
       "category": "Books",
-      "image": "https://example.com/novel.jpg"
+      "image": "https://m.media-amazon.com/images/I/71uUY42uNsL._AC_UY327_FMwebp_QL65_.jpg"
    },
    {
       "id": 24,
@@ -189,7 +189,7 @@
       "description": "Inspiring book on personal development.",
       "price": 399,
       "category": "Books",
-      "image": "https://example.com/self-help.jpg"
+      "image": "https://m.media-amazon.com/images/I/71cjI4kaaZL._AC_UY327_FMwebp_QL65_.jpg"
    },
    {
       "id": 25,
@@ -197,7 +197,7 @@
       "description": "Engaging storybook for kids.",
       "price": 299,
       "category": "Books",
-      "image": "https://example.com/storybook.jpg"
+      "image": "https://m.media-amazon.com/images/I/71dPnBSS8bL._AC_UY327_FMwebp_QL65_.jpg"
    },
    {
       "id": 26,
@@ -205,7 +205,7 @@
       "description": "Learn new recipes from around the world.",
       "price": 599,
       "category": "Books",
-      "image": "https://example.com/cookbook.jpg"
+      "image": "https://m.media-amazon.com/images/I/81dZtmeNoiL._AC_UY327_FMwebp_QL65_.jpg"
    },
    {
       "id": 27,
@@ -213,7 +213,7 @@
       "description": "Exciting sci-fi story with thrilling twists.",
       "price": 699,
       "category": "Books",
-      "image": "https://example.com/scifi.jpg"
+      "image": "https://m.media-amazon.com/images/I/71gr8OhhJxL._AC_UY327_FMwebp_QL65_.jpg"
    },
    {
       "id": 28,
@@ -221,7 +221,7 @@
       "description": "Track your steps, heart rate, and sleep patterns.",
       "price": 1999,
       "category": "Wearables",
-      "image": "https://example.com/fitness-tracker.jpg"
+      "image": "https://m.media-amazon.com/images/I/61AeGQhwjxL._AC_UY327_FMwebp_QL65_.jpg"
    },
    {
       "id": 29,
@@ -229,7 +229,7 @@
       "description": "Advanced smartwatch with multiple features.",
       "price": 12999,
       "category": "Wearables",
-      "image": "https://example.com/smartwatch.jpg"
+      "image": "https://m.media-amazon.com/images/I/61MnrUAKACL._AC_UY327_FMwebp_QL65_.jpg"
    },
    {
       "id": 30,
@@ -237,7 +237,7 @@
       "description": "Immersive virtual reality experience.",
       "price": 6999,
       "category": "Wearables",
-      "image": "https://example.com/vr-headset.jpg"
+      "image": "https://m.media-amazon.com/images/I/61-tgcn-R3L._AC_UY327_FMwebp_QL65_.jpg"
    },
    {
       "id": 31,
@@ -245,7 +245,7 @@
       "description": "Compact and comfortable with long battery life.",
       "price": 2999,
       "category": "Wearables",
-      "image": "https://example.com/earbuds.jpg"
+      "image": "https://m.media-amazon.com/images/I/61-ZYvldY+L._AC_UY327_FMwebp_QL65_.jpg"
    },
    {
       "id": 32,
@@ -253,7 +253,7 @@
       "description": "AR-enabled smart glasses for everyday use.",
       "price": 15999,
       "category": "Wearables",
-      "image": "https://example.com/smart-glasses.jpg"
+      "image": "https://m.media-amazon.com/images/I/51YfWzdJMgL._AC_UL480_FMwebp_QL65_.jpg"
    },
    {
       "id": 33,
@@ -261,7 +261,7 @@
       "description": "Next-gen gaming with 4K resolution.",
       "price": 49999,
       "category": "Gaming",
-      "image": "https://example.com/gaming-console.jpg"
+      "image": "https://m.media-amazon.com/images/I/61ogaIbY0dL._AC_UY327_FMwebp_QL65_.jpg"
    },
    {
       "id": 34,
@@ -269,7 +269,7 @@
       "description": "High-performance laptop for gamers.",
       "price": 74999,
       "category": "Gaming",
-      "image": "https://example.com/gaming-laptop.jpg"
+      "image": "https://m.media-amazon.com/images/I/71EX6krvYLL._AC_UY327_FMwebp_QL65_.jpg"
    },
    {
       "id": 35,
@@ -277,7 +277,7 @@
       "description": "Precision mouse with customizable buttons.",
       "price": 1499,
       "category": "Gaming",
-      "image": "https://example.com/gaming-mouse.jpg"
+      "image": "https://m.media-amazon.com/images/I/510hHEpQJuL._AC_UY327_FMwebp_QL65_.jpg"
    },
    {
       "id": 36,
@@ -285,7 +285,7 @@
       "description": "Tactile keys for a better gaming experience.",
       "price": 3499,
       "category": "Gaming",
-      "image": "https://example.com/mechanical-keyboard.jpg"
+      "image": "https://m.media-amazon.com/images/I/61QPLVPgSOL._AC_UY327_FMwebp_QL65_.jpg"
    },
    {
       "id": 37,
@@ -293,7 +293,7 @@
       "description": "Ergonomic chair for long gaming sessions.",
       "price": 15999,
       "category": "Gaming",
-      "image": "https://example.com/gaming-chair.jpg"
+      "image": "https://m.media-amazon.com/images/I/61adFBs8BRL._AC_UY327_FMwebp_QL65_.jpg"
    },
    {
       "id": 38,
@@ -301,7 +301,7 @@
       "description": "Challenging puzzle for all ages.",
       "price": 599,
       "category": "Toys & Games",
-      "image": "https://example.com/puzzle.jpg"
+      "image": "https://m.media-amazon.com/images/I/81MDbfDp56S._AC_UY327_FMwebp_QL65_.jpg"
    },
    {
       "id": 39,
@@ -309,7 +309,7 @@
       "description": "Collectible action figure for kids.",
       "price": 999,
       "category": "Toys & Games",
-      "image": "https://example.com/action-figure.jpg"
+      "image": "https://m.media-amazon.com/images/I/61GL-C7oQOL._AC_UY327_FMwebp_QL65_.jpg"
    },
    {
       "id": 40,
@@ -317,6 +317,6 @@
       "description": "Fun board game for the whole family.",
       "price": 1499,
       "category": "Toys & Games",
-      "image": "https://example.com/board-game.jpg"
+      "image": "https://m.media-amazon.com/images/I/81FmudclaxL._AC_UY327_FMwebp_QL65_.jpg"
    }
 ]
